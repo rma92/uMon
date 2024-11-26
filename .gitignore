@@ -1,1 +1,8 @@
 *.swp
+*.mak
+*.obj
+*.pdb
+*.sbr
+*.exe
+*.dll
+*.bsc

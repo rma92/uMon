@@ -5,7 +5,7 @@
 void _start()
 {
     // Example application code
-    //MessageBox(NULL, "Hello, Windows API!", "WinMain Entry Point", MB_OK);
+    MessageBox(NULL, "Hello, Windows API!", "WinMain Entry Point", MB_OK);
     
     // Exit the application without using the C runtime
     ExitProcess(0);
